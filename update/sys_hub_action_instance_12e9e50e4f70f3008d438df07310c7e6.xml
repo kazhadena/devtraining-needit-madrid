@@ -142,24 +142,24 @@
         <field>approval_conditions</field>
         <id>12e9e50e4f70f3008d438df07310c7e6</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-15 12:31:24</sys_created_on>
-        <sys_id>92d6ce4e4fb0f3008d438df07310c785</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-15 12:31:24</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
-        <value>ApprovesAnyU[{{Created_1.current.u_requested_for.manager}}]OrRejectsAnyU[{{Created_1.current.u_requested_for.manager}}]</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>approval_conditions</field>
-        <id>12e9e50e4f70f3008d438df07310c7e6</id>
-        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-15 10:24:59</sys_created_on>
         <sys_id>dee9e50e4f70f3008d438df07310c7ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-04-15 10:24:59</sys_updated_on>
         <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>ApprovesAnyU[{{Created_1.current.u_requested_for.manager}}]OrRejectsAnyU[{{Created_1.current.u_requested_for.manager}}]</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_conditions</field>
+        <id>12e9e50e4f70f3008d438df07310c7e6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-15 12:31:24</sys_created_on>
+        <sys_id>92d6ce4e4fb0f3008d438df07310c785</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-15 12:31:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
         <value>ApprovesAnyU[{{Created_1.current.u_requested_for.manager}}]OrRejectsAnyU[{{Created_1.current.u_requested_for.manager}}]</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
@@ -190,18 +190,6 @@
         <field>due_date</field>
         <id>12e9e50e4f70f3008d438df07310c7e6</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-15 10:24:59</sys_created_on>
-        <sys_id>1ee9e50e4f70f3008d438df07310c7ed</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-15 10:24:59</sys_updated_on>
-        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
-        <value>{"action":"none","date_type":"actual","date":"{{}}","duration":1,"duration_type":"days","schedule":"","schedule_label":""}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>due_date</field>
-        <id>12e9e50e4f70f3008d438df07310c7e6</id>
-        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-15 12:31:24</sys_created_on>
         <sys_id>ded6ce4e4fb0f3008d438df07310c784</sys_id>
         <sys_mod_count>0</sys_mod_count>
@@ -211,16 +199,16 @@
         <value>{"action":"none","date_type":"actual","date":"{{}}","duration":1,"duration_type":"days","schedule":"","schedule_label":""}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>journal_field</field>
+        <field>due_date</field>
         <id>12e9e50e4f70f3008d438df07310c7e6</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-15 12:31:24</sys_created_on>
-        <sys_id>5ad6ce4e4fb0f3008d438df07310c784</sys_id>
+        <sys_created_on>2019-04-15 10:24:59</sys_created_on>
+        <sys_id>1ee9e50e4f70f3008d438df07310c7ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-15 12:31:24</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
-        <value/>
+        <sys_updated_on>2019-04-15 10:24:59</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>{"action":"none","date_type":"actual","date":"{{}}","duration":1,"duration_type":"days","schedule":"","schedule_label":""}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>journal_field</field>
@@ -235,16 +223,16 @@
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>record</field>
+        <field>journal_field</field>
         <id>12e9e50e4f70f3008d438df07310c7e6</id>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-15 12:31:24</sys_created_on>
-        <sys_id>1ed6ce4e4fb0f3008d438df07310c784</sys_id>
+        <sys_id>5ad6ce4e4fb0f3008d438df07310c784</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-04-15 12:31:24</sys_updated_on>
         <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
-        <value>{{Created_1.current}}</value>
+        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>record</field>
@@ -259,16 +247,16 @@
         <value>{{Created_1.current}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>table</field>
+        <field>record</field>
         <id>12e9e50e4f70f3008d438df07310c7e6</id>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-15 12:31:24</sys_created_on>
-        <sys_id>56d6ce4e4fb0f3008d438df07310c785</sys_id>
+        <sys_id>1ed6ce4e4fb0f3008d438df07310c784</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-04-15 12:31:24</sys_updated_on>
         <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
-        <value/>
+        <value>{{Created_1.current}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -280,6 +268,18 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-04-15 10:24:59</sys_updated_on>
         <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>12e9e50e4f70f3008d438df07310c7e6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-15 12:31:24</sys_created_on>
+        <sys_id>56d6ce4e4fb0f3008d438df07310c785</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-15 12:31:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
         <value/>
     </sys_element_mapping>
 </record_update>

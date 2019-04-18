@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TravelTrackerFlight" max_length="40" name="x_58872_needit_traveltrackerflight" type="collection">
+        <element label="Airline code" max_length="40" name="airline_code" type="string"/>
+        <element label="Fa flight ID" max_length="40" name="fa_flight_id" type="string"/>
+        <element label="flight number" max_length="40" name="flight_number" type="string"/>
+        <element label="origin" max_length="40" name="origin" type="string"/>
+        <element label="Start time" max_length="40" name="start_time" type="glide_date_time"/>
+    </element>
+</database>
